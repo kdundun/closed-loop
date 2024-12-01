@@ -10,7 +10,7 @@
 </div>
 
 <!--  -->
-<img src="fig_framework.pdf" alt="fig_framework" style="max-width: 90%; height: auto;"/>  
+<img src="fig_framework.png" alt="fig_framework" style="max-width: 90%; height: auto;"/>  
 
 The closed-loop Framework.
 
