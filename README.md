@@ -10,6 +10,10 @@
 </div>
 
 <!--  -->
+
+<img src="Conceptualization.jpg" alt="fig_Conceptualization" style="max-width: 90%; height: auto;"/>  
+Conceptualization.
+
 <img src="fig_framework.png" alt="fig_framework" style="max-width: 90%; height: auto;"/>  
 
 The closed-loop Framework.
